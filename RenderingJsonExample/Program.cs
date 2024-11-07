@@ -1,8 +1,6 @@
-﻿
-using Spectre.Console;
-using Spectre.Console.Json;
+﻿using Spectre.Console.Json;
 
-namespace SpectreConsoleTestWorkspace.RenderingJsonExample;
+namespace Spectre.Console.Examples.RenderingJsonExample;
 
 internal class Program
 {

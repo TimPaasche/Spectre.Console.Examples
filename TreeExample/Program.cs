@@ -1,6 +1,4 @@
-﻿using Spectre.Console;
-
-namespace SpectreConsoleTestWorkspace.TreeExample;
+﻿namespace Spectre.Console.Examples.TreeExample;
 
 internal class Program
 {

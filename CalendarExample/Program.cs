@@ -1,6 +1,4 @@
-﻿using Spectre.Console;
-
-namespace SpectreConsoleTestWorkspace.CalendarExample;
+﻿namespace Spectre.Console.Examples.CalendarExample;
 
 internal class Program
 {

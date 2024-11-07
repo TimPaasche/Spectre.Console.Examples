@@ -1,6 +1,4 @@
-﻿using Spectre.Console;
-
-namespace SpectreConsoleTestWorkspace.BarChartExample;
+﻿namespace Spectre.Console.Examples.BarChartExample;
 
 
 internal class Program

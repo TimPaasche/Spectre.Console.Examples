@@ -1,6 +1,4 @@
-﻿using Spectre.Console;
-
-namespace SpectreConsoleTestWorkspace.PanelExample;
+﻿namespace Spectre.Console.Examples.PanelExample;
 
 internal class Program
 {

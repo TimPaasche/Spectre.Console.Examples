@@ -1,6 +1,4 @@
-﻿using Spectre.Console;
-
-namespace SpectreConsoleTestWorkspace.SectionExample;
+﻿namespace Spectre.Console.Examples.SectionExample;
 
 internal class Program
 {

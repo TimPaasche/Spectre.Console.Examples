@@ -1,6 +1,4 @@
-﻿using Spectre.Console;
-
-namespace SpectreConsoleTestWorkspace.ColumnsExample;
+﻿namespace Spectre.Console.Examples.ColumnsExample;
 
 internal class Program
 {
